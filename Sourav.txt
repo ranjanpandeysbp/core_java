@@ -1,0 +1,3 @@
+Today is Tuesday.
+Date is 18 July 2022.
+Tomorrow is Wednessday.
