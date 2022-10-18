@@ -6,5 +6,6 @@ public class VariableDemo {
         System.out.println("Hii");
         int a=5;
         System.out.println(a);
+        //Added new line
     }
 }
