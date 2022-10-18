@@ -8,3 +8,5 @@ public class VariableDemo {
         System.out.println(a);
     }
 }
+
+//test
