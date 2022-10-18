@@ -3,7 +3,7 @@ package com.mycompany.stringdemo;
 public class CompareTo {
     public static void main(String[] args)
     {
-        //Hello some Changes required
+        //updated
         String s1 = "apple";
         String s2 = "banana";
         String s3 = "cat";
