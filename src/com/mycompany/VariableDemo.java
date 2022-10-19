@@ -9,5 +9,3 @@ public class VariableDemo {
         //Added new line
     }
 }
-
-//test
